@@ -1,7 +1,3 @@
-แน่นอนค่ะ นี่คือเนื้อหาที่จัดรูปแบบเป็นไฟล์ <font color="blue">Markdown</font> พร้อมทั้งเน้นสีตามที่คุณต้องการค่ะ
-
----
-
 <font color="blue"># </font><mark>ISSUES AND INNOVATIONS IN NURSING PRACTICE</mark>
 <font color="blue">## ประเด็นและนวัตกรรมในการปฏิบัติการพยาบาล</font>
 
