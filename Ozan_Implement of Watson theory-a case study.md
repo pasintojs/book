@@ -1,7 +1,3 @@
-แน่นอนค่ะ นี่คือคำแปลตามที่คุณต้องการค่ะ
-
----
-
 <mark style="background-color:yellow">International Journal of Caring Sciences January-April 2015 Volume 8 Issue 1 Page 25</mark>
 วารสารนานาชาติว่าด้วยศาสตร์แห่งการดูแล มกราคม-เมษายน 2015 เล่มที่ 8 ฉบับที่ 1 หน้า 25
 
